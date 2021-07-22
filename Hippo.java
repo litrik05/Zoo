@@ -2,6 +2,6 @@ public class Hippo
 {
 	public Hippo ()
 	{
-		System.out.println("Glory");
+		System.out.println("Gloria");
 	}
 }
